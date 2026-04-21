@@ -23,7 +23,7 @@ EC2 (Node Exporter) → Prometheus → Grafana Dashboard → Alerts
 
 ---
 
-##🔄 Monitoring Pipeline:
+## 🔄 Monitoring Pipeline:
 - Node Exporter collects system metrics from EC2 instances
 - Prometheus scrapes metrics from Node Exporter
 - Prometheus stores data as time-series
